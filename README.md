@@ -26,4 +26,4 @@ Input board, turn, level, Output row, col, rot
 7) display_board - Visualisation of board on a tkinter window, buttons to close window and print row, col and rot with respect to the piece clicked -
 Input board, Outputs nothing
 
-8) menu - 
+8) menu - Handles all the functions with the user's inputs and outputs nothing

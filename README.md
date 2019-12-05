@@ -11,7 +11,7 @@ Input board and turn, Output True/False
 2) check_move - Check's validity of the player's move [player is not allowed to put on occupied pieces of the board] -
 Input board, row, col, Output True/False
 
-3) rotation - Rotates one of four 3x3 quadrant of the board once, either clockwise of anti-clockwise -
+3) rotation - Rotates one of four 3x3 quadrant of the board once, either clockwise of anti-clockwise (refer to rotateIDpic) -
 Input board and rot, Output board
 
 4) victory_board - Checks board for consecutive 5-in-a-row pieces to determine a win, full board with no player winning (draw) and no win conditions - 

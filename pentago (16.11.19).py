@@ -737,3 +737,5 @@ def menu(): # # PROJECT SKELETON FUNCTION (menu())
                         break
         elif whattodo == 'e': # EXITS GAME, CLOSES MENU()
             return 
+
+menu()        

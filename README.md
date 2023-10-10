@@ -1,12 +1,7 @@
 ## Pentago (Python)
-```__________               __                         ```
-```\______   \ ____   _____/  |______     ____   ____  ```
-``` |     ___// __ \ /    \   __\__  \   / ___\ /  _ \ ```
-``` |    |   \  ___/|   |  \  |  / __ \_/ /_/  >  <_> ) ```
-``` |____|    \___  >___|  /__| (____  /\___  / \____/ ```
-```               \/     \/          \//_____/```
 
-A university project on creating a game called Pentago. Pentago is an abstract strategy game created by Tomas Flodén.
+A university project on creating a game called Pentago. 
+Pentago is an abstract strategy game created by Tomas Flodén.
 Game is similar to connect 4, but requires 5 rows of the same color to win
 As an interest, I have modified it by creating an interface and will continue to improve the overall code structure
 

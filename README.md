@@ -8,10 +8,9 @@ Pentago (Python)
 
 A university project on creating a game called Pentago. Pentago is an abstract strategy game created by Tomas Flodén.
 Game is similar to connect 4, but requires 5 rows of the same color to win
+*As an interest, I have modified it by creating an interface and will continue to improve the overall code structure
 
-As an interest, I have modified it by creating an interface and will continue to improve the overall code structure
-
-![image](https://github.com/bryanlzl/pentago/assets/58539426/7a29725a-1c39-450b-8b0e-60ac146c8880)
+![pentago-gameplay](https://github.com/bryanlzl/pentago/assets/58539426/831eb692-7557-4b04-beee-a0568bf04b44)
 
 ### Features:
 - A semi-functional display interface for the game using Tkinter GUI

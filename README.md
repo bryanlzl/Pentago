@@ -1,4 +1,4 @@
-## Pentago ![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
+## Pentago ![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg) ![Clone](https://img.shields.io/badge/clone%20count-40-green?logo=github)
 
 Pentago game written in Python with Tkinter interface
 Pentago is an abstract strategy game created by Tomas Flodén, similar concept as connect 4, but requires 5 rows of the same color to win
